@@ -1,0 +1,2 @@
+# lintcode
+for lintcode problems
